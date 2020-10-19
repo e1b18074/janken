@@ -20,7 +20,7 @@ public class Lec02Controller {
       model.addAttribute("Hand",Hand);
       model.addAttribute("CPU",CPU);
       model.addAttribute("kekka",kekka)
-      ;
+      ^;
       }
       if(hand == 1){
       Hand="あなたの手 Choki";
